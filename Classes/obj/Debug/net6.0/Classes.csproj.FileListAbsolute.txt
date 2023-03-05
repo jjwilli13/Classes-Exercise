@@ -1,0 +1,15 @@
+/Users/jordan/repo/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/jordan/repo/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/jordan/repo/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/jordan/repo/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/jordan/repo/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/jordan/repo/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
